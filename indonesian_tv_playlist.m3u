@@ -1,0 +1,55 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="RCTI" tvg-name="RCTI" group-title="Indonesia",RCTI
+https://streaming.rctiplus.com/live/rcti/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SCTV" tvg-name="SCTV" group-title="Indonesia",SCTV
+https://live.vidio.com/live/sctv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TransTV" tvg-name="Trans TV" group-title="Indonesia",Trans TV
+https://live.transtv.co.id/live/ttv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Trans7" tvg-name="Trans7" group-title="Indonesia",Trans7
+https://live.trans7.co.id/live/t7/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NETTV" tvg-name="NET TV" group-title="Indonesia",NET TV
+https://live.netmedia.co.id/live/ntv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MetroTV" tvg-name="Metro TV" group-title="Indonesia",Metro TV
+https://live.metrotvnews.com/live/mtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVOne" tvg-name="TV One" group-title="Indonesia",TV One
+https://live.tvonenews.com/live/tvone/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KompasTV" tvg-name="Kompas TV" group-title="Indonesia",Kompas TV
+https://live.kompas.tv/live/ktv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVRI" tvg-name="TVRI" group-title="Indonesia",TVRI
+https://tvri.bz/stream/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" group-title="Indonesia",ANTV
+https://video.antenna.co.id/live/antv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Indosiar" tvg-name="Indosiar" group-title="Indonesia",Indosiar
+https://live.vidio.com/live/indosiar/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GTV" tvg-name="GTV" group-title="Indonesia",GTV
+https://streaming.rctiplus.com/live/gtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MNCTV" tvg-name="MNCTV" group-title="Indonesia",MNCTV
+https://streaming.rctiplus.com/live/mnctv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="iNews" tvg-name="iNews" group-title="Indonesia",iNews
+https://streaming.rctiplus.com/live/inews/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BaliTV" tvg-name="Bali TV" group-title="Indonesia",Bali TV
+https://balitvstreaming.com/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="JakTV" tvg-name="Jak TV" group-title="Indonesia",Jak TV
+https://jaktvstream.com/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DaaiTV" tvg-name="Daai TV" group-title="Indonesia",Daai TV
+https://daaitvstream.com/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="OChannel" tvg-name="O Channel" group-title="Indonesia",O Channel
+https://ochannelstream.com/live/playlist.m3u8
