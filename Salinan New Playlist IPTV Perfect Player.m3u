@@ -1,54 +1,79 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="11kanal" tvg-name="11 канал Днепр" tvg-language="Ukrainian" tvg-logo="https://i.imgur.com/R3MO4vb.png" tvg-country="UA" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="",11 канал (Днепр)
 http://212.3.106.230/hls-live/live/_definst_/liveevent/livestream.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Italian" tvg-logo="https://i.imgur.com/OVpsupt.png" tvg-country="IT" tvg-url="" group-title="",111 TV Liguria
 http://dcunilive36-lh.akamaihd.net/i/dclive_1@662089/index_150_av-p.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Italian" tvg-logo="https://i.imgur.com/BZSFqUz.png" tvg-country="IT" tvg-url="" group-title="",111 TV Liguria
 http://dcunilive36-lh.akamaihd.net/i/dclive_1@662089/master.m3u8?fluxustv.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Italian" tvg-logo="" tvg-country="IT" tvg-url="" group-title="",111tv
 http://dcunilive36-lh.akamaihd.net/i/dclive_1@662089/index_150_av-p.m3u8?sd=6&rebase=on
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/VuvGm3s.png" tvg-country="AR" tvg-url="" group-title="",13 Max
 http://coninfo.net:1935/13maxhd/live_720p/chunklist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/VuvGm3s.png" tvg-country="AR" tvg-url="" group-title="",13 Max
 http://coninfo.net:1935/13maxhd/live_720p/chunklist_w352743074.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Thai" tvg-logo="https://i.imgur.com/fdopfeC.jpg" tvg-country="TH" tvg-url="" group-title="",13 Siam TV
 http://203.154.83.176:1935/live/13wDt2b6g4/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="http://i.imgur.com/MeaSmiv.jpg" tvg-country="MX" tvg-url="" group-title="",15TV Sabinas
 http://live.gvstream.net:1935/e-tv-video/play.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Georgian" tvg-logo="https://1tv.ge/app/themes/wi-theme/resources/assets/img/logo/ge.png" tvg-country="GE" tvg-url="" group-title="",1TV
 http://tv.cdn.xsg.ge/gpb-1tv/tracks-v1a1/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Georgian" tvg-logo="https://i.imgur.com/mX080in.png" tvg-country="GE" tvg-url="" group-title="",1TV
 https://tv.cdn.xsg.ge/gpb-1tv/tracks-v2a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Dutch" tvg-logo="https://i.imgur.com/UuVwFHP.png" tvg-country="NL" tvg-url="" group-title="",1Twente
 http://ms7.mx-cd.net/tv/198-989148/1Twente_TV.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/HGmC8ea.png" tvg-country="INT" tvg-url="" group-title="",24 Box TV
 http://51.158.190.97/hls/stream.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/6miysb8.png" tvg-country="AR" tvg-url="" group-title="",24/7 Canal de Noticias
 http://59c5c86e10038.streamlock.net:1935/6605140/6605140/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://pics.prcm.jp/dea3d5a8dcd76/53796588/png/53796588.png" tvg-country="CN" tvg-url="" group-title="",24/7 Kuroko's Basketball
 http://aldirect.hls.huya.com/huyalive/94525224-2604793726-11187503865995984896-3049003148-10057-A-0-1_1200.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="http://www.ivy.com.tw/ivyhtmlpic/e-paper/enjoy/201401/01271.jpg" tvg-country="CN" tvg-url="" group-title="",24/7 Reality TV 2
 http://aldirect.hls.huya.com/huyalive/29169025-2686221304-11537232650498473984-2789253854-10057-A-0-1_1200.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/sADbx7S.png" tvg-country="ES" tvg-url="" group-title="",25 TV
 http://cdnlive.shooowit.net/25televisiolive/25tv.smil/.m3u8?fluxustv.m3u8
+
 #EXTINF:-1 tvg-id="2M Monde ARB" tvg-name="2M Monde ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/eE1SdyA.png" tvg-country="MA" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="",2M Monde
 http://livecdnh2.tvanywhere.ae/hls/2m_maroc/04.m3u8
+
 #EXTINF:-1 tvg-id="2M Monde ARB" tvg-name="2M Monde ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/eE1SdyA.png" tvg-country="MA" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="",2M Monde
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts/2m_monde.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Georgian" tvg-logo="https://i.imgur.com/VBmQCH7.png" tvg-country="GE" tvg-url="" group-title="",2TV
 https://tv.cdn.xsg.ge/gpb-2tv/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/CKCtZo7.png" tvg-country="US" tvg-url="" group-title="",30A Investment Pitch
 http://www.30a-tv.com/InvPit.m3u8?fluxustv.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://www.sidewalkstv.com/wp-content/uploads/2013/10/sw-tep-large-300x125.png" tvg-country="US" tvg-url="" group-title="",30A Sidewalks
 http://30a-tv.com/sidewalks.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/4TEMhxH.png" tvg-country="US" tvg-url="" group-title="",30A TV
 http://30a-tv.com/my999.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/4TEMhxH.png" tvg-country="US" tvg-url="" group-title="",30A TV
 http://30a-tv.com/my999.m3u8?fluxustv.m3u8
+
 #EXTINF:-1 tvg-id="rti" tvg-name="RTi" tvg-language="Ukrainian" tvg-logo="https://i.imgur.com/8k3JjOW.png" tvg-country="UA" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="",4 канал
 http://95.67.106.10/hls/nta_ua_hi/index.m3u8
+
 #EXTINF:-1 tvg-id="rti" tvg-name="RTi" tvg-language="Ukrainian" tvg-logo="https://i.imgur.com/8k3JjOW.png" tvg-country="UA" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="",4 канал
 http://95.67.106.10/hls/nta_ua_low/index.m3u8
+
 #EXTINF:-1 tvg-id="rti" tvg-name="RTi" tvg-language="Ukrainian" tvg-logo="https://i.imgur.com/8k3JjOW.png" tvg-country="UA" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="",4 канал
 http://95.67.106.10/hls/nta_ua_mid/index.m3u8
 #EXTINF:-1 tvg-id="rti" tvg-name="RTi" tvg-language="Ukrainian" tvg-logo="https://i.imgur.com/8k3JjOW.png" tvg-country="UA" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="",4 канал
